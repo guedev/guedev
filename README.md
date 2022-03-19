@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Guedes! 👋
+### Hi there, I'm Lucas Guedes! I'm a front-end developer. 👋
 
 - 👨‍💻 I’m currently learning Javascript/Typescript/ReactJs
 
