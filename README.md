@@ -1,6 +1,7 @@
 ### Hi there, I'm Lucas Guedes! I'm a front-end developer. 👋
 
 - 👨‍💻 I’m currently working on improving my HTML, CSS, Javascrip, and React skills.
+- ⚡ Fact about me: I love TV series and comic books.
 
 <div align="center">
   <a href="https://github.com/guedev">
