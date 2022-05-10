@@ -18,7 +18,7 @@
   <img align="center" alt="guedo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />        
   <img align="center" alt="guedo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="guedo-godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img align="center" alt="guedo-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <img align="center" alt="guedo-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
   <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/533072346068549632/954504016346382416/3971df43-95d1-4557-86c9-35904796a349-profile_image-300x300.png">
 </div>
