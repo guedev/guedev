@@ -36,7 +36,7 @@
   <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/533072346068549632/954504016346382416/3971df43-95d1-4557-86c9-35904796a349-profile_image-300x300.png">
 </div>
   
-  ##
+  ## My Contacts
   
   <div> 
   <a href="https://instagram.com/gued_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
