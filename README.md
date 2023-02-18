@@ -29,7 +29,7 @@
 
  
 
-  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/533072346068549632/954504016346382416/3971df43-95d1-4557-86c9-35904796a349-profile_image-300x300.png">
+  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://imgcloud.com.br/file/1807769f-39cc-444c-9ec0-983009c4123b.png">
 </div>
   
   ## My Contacts
@@ -42,6 +42,9 @@
  
 
 </div>
+
+
+## My Contacts
 
 <div>
   <a href="https://github.com/fabiodeandrade">
