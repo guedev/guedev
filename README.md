@@ -29,7 +29,7 @@
 
  
 
-  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://imgcloud.com.br/file/1807769f-39cc-444c-9ec0-983009c4123b.png">
+  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea">
 </div>
   
   ## My Contacts
