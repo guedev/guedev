@@ -29,7 +29,7 @@
 
  
 <div>
-  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="hhttps://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea/direct">
+  <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://imgcloud.gateway.us1.storjshare.io/files/c7f483e2-bb50-4a44-be3e-4ed7071997af/1807769f-39cc-444c-9ec0-983009c4123b.png?response-content-type=image%2Fpng&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=jvqxsdyem6pamxuxzvccrljveztq%2F20230222%2Fus1%2Fs3%2Faws4_request&X-Amz-Date=20230222T154612Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=14d97febcd5100c2b883b595739fc667fa01089ea0b2c75bce471f4ace91736a">
 </div>
   
   ## My Contacts
