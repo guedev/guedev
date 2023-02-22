@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
  
-
+<div>
   <img align="right" alt="guedo" height="150" style="border-radius:50px;" src="https://imgcloud.gateway.us1.storjshare.io/files/c7f483e2-bb50-4a44-be3e-4ed7071997af/1807769f-39cc-444c-9ec0-983009c4123b.png?response-content-type=image%2Fpng&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=jvqxsdyem6pamxuxzvccrljveztq%2F20230218%2Fus1%2Fs3%2Faws4_request&X-Amz-Date=20230218T143644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=bcd8edafabf9c44abc1de960f68f9dbfcb9809ff67d7f31139928e043fe6b6eb">
 </div>
   
@@ -55,7 +55,4 @@
   
   
   
-  
-  
-  
-  <a href="https://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea"><img align="right" alt="guedo" height="150" style="border-radius:50px src="https://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea/direct" alt="Cavaleiro" border="0" /></a>
+ 
