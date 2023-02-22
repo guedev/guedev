@@ -52,3 +52,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedev&langs_count=8&theme=radical"/>
  
 </div>
+  
+  
+  
+  
+  
+  
+  <a href="https://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea"><img align="right" alt="guedo" height="150" style="border-radius:50px src="https://imgcloud.com.br/share/wYGKWnlYkYZPo7Ea/direct" alt="Cavaleiro" border="0" /></a>
