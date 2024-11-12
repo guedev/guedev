@@ -1,7 +1,7 @@
-### Hi there, I'm Lucas Guedes! I'm a front-end developer. 👋
+### Hi there, I'm Lucas Guedes! I'm a Full Stack developer. 👋
 
-- 👨‍💻 I’m currently working on improving my SQL and Node skills.
-- ⚛️ Solid knowledge in HTML, CSS, Javascript, ReactJs.
+- 👨‍💻 I’m currently working on improving my Laravel skills.
+- ⚛️ Solid knowledge in HTML, CSS, Javascript, ReactJs, PHP, MySQL.
 - ⚡ Fact about me: I love TV series and comic books.
 
 
