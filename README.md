@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas Guedes! I'm a Full Stack developer. 👋
 
-- 👨‍💻 I’m currently working on improving my Laravel skills.
-- ⚛️ Solid knowledge in HTML, CSS, Javascript, ReactJs, PHP, MySQL.
+- 👨‍💻 I’m currently working on improving my Docker skills.
+- ⚛️ Solid knowledge in HTML, CSS, Javascript, ReactJs, PHP, MySQL, Laravel, Next.js, SQL.
 - ⚡ Fact about me: I love TV series and comic books.
 
 
